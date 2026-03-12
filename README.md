@@ -62,6 +62,6 @@ API: FakeStore API (Ürün verileri için)
 
 ![](./public/screen.jpg)
 
-## Screenshot
+## Gifs
 
 ![](./public/shopcenter.gif)
